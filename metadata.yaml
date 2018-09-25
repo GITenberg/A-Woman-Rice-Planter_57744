@@ -1,5 +1,5 @@
 _repo: A-Woman-Rice-Planter_57744
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Wister, Owen
@@ -12,6 +12,9 @@ contributor:
     agent_name: Smith, Alice R. H.
     gutenberg_agent_id: '49584'
     url: http://www.gutenberg.org/2009/agents/49584
+covers:
+- cover_type: archival
+  image_path: 57744-h/images/cover.jpg
 creator:
   authors:
   - agent_name: '[AKA Patience Pennington}'
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '49582'
     url: http://www.gutenberg.org/2009/agents/49582
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57744#A-Woman-Rice-Planter
 gutenberg_issued: '2018-08-24'
 gutenberg_type: Text
 identifiers:
