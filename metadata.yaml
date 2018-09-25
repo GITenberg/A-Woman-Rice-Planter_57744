@@ -1,0 +1,35 @@
+_repo: A-Woman-Rice-Planter_57744
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+  illustrator:
+    agent_name: Smith, Alice R. H.
+    gutenberg_agent_id: '49584'
+    url: http://www.gutenberg.org/2009/agents/49584
+creator:
+  authors:
+  - agent_name: '[AKA Patience Pennington}'
+    gutenberg_agent_id: '49583'
+    url: http://www.gutenberg.org/2009/agents/49583
+  - agent_name: Pringle, Elizabeth W. Allston
+    gutenberg_agent_id: '49582'
+    url: http://www.gutenberg.org/2009/agents/49582
+description: ''
+gutenberg_issued: '2018-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Woman Rice Planter
+url: http://www.gutenberg.org/ebooks/57744
